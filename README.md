@@ -1,7 +1,8 @@
-SHOPPING CART
+**SHOPPING CART**
+
 A modern and responsive shopping cart webpage with enhanced animations, dynamic item management, and a beautiful color theme. Built using HTML, CSS, JavaScript, and Bootstrap, this project provides an engaging and interactive user experience.
 
-Features
+**Features**
 Dynamic Shopping Cart
 
 Add, update, or remove items dynamically.
